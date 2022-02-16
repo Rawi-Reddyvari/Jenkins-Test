@@ -1,0 +1,5 @@
+// This is a test file to understand how nexus works //
+Install Git first, then Maven and Tomcat with the help of Java Jdk
+Proceed to create a file in the git
+share the link to fetch the file, for Jenkins
+Then configure the settings for Nexus to work
